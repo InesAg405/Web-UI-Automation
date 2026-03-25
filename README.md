@@ -36,3 +36,6 @@ Fixtures: manage browser setup and teardown automatically
 Pytest: discovers test files, runs parametrized tests, handles assertions
 HTML Reports: visually shows which tests passed or failed
 
+## 📊 Test Report
+
+![Test Report](report.png)
